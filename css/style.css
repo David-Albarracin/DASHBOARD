@@ -131,7 +131,6 @@ li.nav-active{
     color: white;
 }
 
-
-
-
-@import url(./breakpoints.css);
+h4 {
+    padding-left: 1rem;
+}
